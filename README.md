@@ -19,8 +19,8 @@ If you die and wait 1 minute before respawning you may not recieve the effect.  
 __[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__     
 
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
-__All of my projects take an inordinant amount of time to upkeep/create.    
-I use my free time to make them.  Any support would be much appreciated!    
+__All of my projects take an inordinate amount of time to upkeep/create.
+I use my free time to make them. Any support would be much appreciated!
 If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
 Credit: Based off `TheDiamondPlayables` `CoolTimeZero` data pack.  
