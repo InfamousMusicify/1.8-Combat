@@ -8,8 +8,12 @@ Gives the player an attack speed buff, `attribute @s minecraft:generic.attack_sp
 
 `It just works...`  
 
-Command:  (coming soon)     
+Command:       
 `/trigger tgl-1.8-combat` turn off 1.8 combat. (per player)   
+Tips: 
+`If your attack speed isnt instant, try the toggle command until it says "1.8 Combat On"`
+You will have instant attack by default when you first login.  If you die it will take 60 seconds for the attack speed to return.
+If you die and wait 1 minute before respawning you may not recieve the effect.  Use toggle command to fix.
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/1.8-Combat/archive/refs/heads/master.zip)  
 __[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__     
@@ -19,7 +23,7 @@ __All of my projects take an inordinant amount of time to upkeep/create.
 I use my free time to make them.  Any support would be much appreciated!    
 If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
-Credit: Based off `TheDiamondPlayables` CoolTimeZero datapack.  
+Credit: Based off `TheDiamondPlayables` `CoolTimeZero` data pack.  
 Thank you for the attack speed attribute and the predicate for player respawns <3  
 
 Cheers   
