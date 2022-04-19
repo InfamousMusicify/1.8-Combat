@@ -10,10 +10,10 @@ Gives the player an attack speed buff, `attribute @s minecraft:generic.attack_sp
 
 Command:       
 `/trigger tgl-1.8-combat` turn off 1.8 combat. (per player)   
-Tips: 
-`If your attack speed isnt instant, try the toggle command until it says "1.8 Combat On"`
-You will have instant attack by default when you first login.  If you die it will take 60 seconds for the attack speed to return.
-If you die and wait 1 minute before respawning you may not recieve the effect.  Use toggle command to fix.
+Tips:   
+`If your attack speed isnt instant, try the toggle command until it says "1.8 Combat On"`   
+You will have instant attack by default when you first login.  If you die it will take 60 seconds for the attack speed to return.   
+If you die and wait 1 minute before respawning you may not recieve the effect.  Use toggle command to fix.   
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/1.8-Combat/archive/refs/heads/master.zip)  
 __[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__     
