@@ -2,4 +2,4 @@
 tag @s remove 1.8.c.off
 tellraw @s ["",{"text":"1.8 Combat ","color":"gold"},{"text":"On","color":"red"}]
 attribute @s minecraft:generic.attack_speed base set 25
-scoreboard players set @s tgl-1.8-combat 2
+scoreboard players set @s 1.8-combat 2
