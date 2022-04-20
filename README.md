@@ -9,7 +9,7 @@ Gives the player an attack speed buff, `attribute @s minecraft:generic.attack_sp
 `It just works...`  
 
 Command:       
-`/trigger tgl-1.8-combat` turn off 1.8 combat. (per player)   
+`/trigger 1.8-combat` turn off 1.8 combat. (per player)   
 Tips:   
 `If your attack speed isnt instant, try the toggle command until it says "1.8 Combat On"`   
 You will have instant attack by default when you first login.  If you die it will take 60 seconds for the attack speed to return.   
