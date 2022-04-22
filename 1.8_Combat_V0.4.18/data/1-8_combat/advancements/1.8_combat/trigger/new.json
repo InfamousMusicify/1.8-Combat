@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "1-8_combat:give_attack_speed"
+        "function": "1-8_combat:new"
     }
 }
