@@ -9,7 +9,7 @@
 ### [🔗1.18.2](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.18.2/1.8_Combat_V0.9.0-1.18.2.zip) 
 ### [🔗1.18+](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.18/1.8_Combat_V0.9.0-1.18.zip)
 
-Unfinished below, backports coming soon.
+Old or Untested Below: Backports coming soon: (check archive for older versions)
 ### [🔗1.17+](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.17/1.8_Combat_V0.9.n1-1.17.zip) (1.16-1.17+)   
 
 ### [🔗1.16.2 - 1.16.5](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.16.2/1.8_Combat_V0.9.n1-1.16.zip)   
