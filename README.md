@@ -14,7 +14,7 @@ Tips:
 `If your attack speed isnt instant, try the toggle command until it says "1.8 Combat On"`   
 You will have instant attack by default when you first login.   
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/1.8-Combat/archive/refs/heads/master.zip)  
+## [🔗Download🔗](https://github.com/InfamousMusicify/1.8-Combat/blob/master/Downloads.md)  
 __[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__     
 
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
