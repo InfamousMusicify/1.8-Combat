@@ -1,7 +1,7 @@
 ## [Releases](https://github.com/InfamousMusicify/1.8-Combat/releases/) - [Tags](https://github.com/InfamousMusicify/1.8-Combat/tags/) - [Branches](https://github.com/InfamousMusicify/1.8-Combat/branches) - [Archive](https://github.com/InfamousMusicify/1.8-Combat/releases/tag/Archive)       
 
 
-### [🔗1.20](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.20/1.8_Combat_V0.9.01.20.zip) (1.18-1.20+)     
+### [🔗1.20](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.20/1.8_Combat_V0.9.0-1.20.zip) (1.18-1.20+)     
 
 ### [🔗1.19.4](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.19.4/1.8_Combat_V0.9.0-1.19.4.zip)    
 ### [🔗1.19+](https://github.com/InfamousMusicify/1.8-Combat/releases/download/1.19/1.8_Combat_V0.9.0-1.19.zip)  
