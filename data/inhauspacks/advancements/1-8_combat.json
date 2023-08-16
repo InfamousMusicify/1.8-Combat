@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": "1.8 Combat       ",
+        "description": ["",
+            {"text":"Rapid click attacks!","color":"green"},{"text":"\n"},
+            {"text":"/trigger 1.8-combat","color":"gold"},{"text":"\n"},
+            {"text":"- toggle 1.8 combat","color":"yellow"}
+
+        ],
+        "icon": {
+            "item": "minecraft:diamond_sword"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "inhauspacks:death",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

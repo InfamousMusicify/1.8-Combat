@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"1-8_combat:load",
+		"1-8_combat:tick"
+	]
+}
