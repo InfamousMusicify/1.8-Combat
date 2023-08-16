@@ -23,6 +23,7 @@ If you enjoy these packs and want to see more like them and see them maintained,
 
 Credit: Based off `TheDiamondPlayables` `CoolTimeZero` data pack.  
 Thank you for the attack speed attribute and the predicate for player respawns <3  
+This is a player choice based version of the same idea.
 
 Cheers   
 -Infamous   
